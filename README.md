@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kshitij83/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0015-3sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kshitij83/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kshitij83/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
