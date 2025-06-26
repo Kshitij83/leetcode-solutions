@@ -247,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kshitij83/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Kshitij83/leetcode-solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
