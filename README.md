@@ -175,23 +175,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0088-merge-sorted-array) |
-## Binary Search Tree
+## Breadth-First Search
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
