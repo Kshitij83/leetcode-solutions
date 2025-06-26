@@ -175,23 +175,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
-| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kshitij83/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0088-merge-sorted-array) |
-## Breadth-First Search
+## Binary Search Tree
 |  |
 | ------- |
-| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
-| [0100-same-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0100-same-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kshitij83/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kshitij83/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
