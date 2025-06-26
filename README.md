@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kshitij83/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Kshitij83/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Kshitij83/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Kshitij83/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij83/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Kshitij83/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kshitij83/leetcode-solutions/tree/master/0198-house-robber) |
 ## Greedy
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Kshitij83/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Kshitij83/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Kshitij83/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
