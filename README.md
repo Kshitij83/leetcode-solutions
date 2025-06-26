@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kshitij83/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kshitij83/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Kshitij83/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
