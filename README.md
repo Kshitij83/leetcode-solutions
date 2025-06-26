@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kshitij83/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Kshitij83/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kshitij83/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Kshitij83/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kshitij83/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Kshitij83/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
