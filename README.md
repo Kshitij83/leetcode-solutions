@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kshitij83/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kshitij83/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Kshitij83/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshitij83/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Kshitij83/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Kshitij83/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Kshitij83/leetcode-solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Kshitij83/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij83/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshitij83/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Kshitij83/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kshitij83/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kshitij83/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Kshitij83/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 ## String Matching
