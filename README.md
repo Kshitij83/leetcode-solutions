@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kshitij83/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kshitij83/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Kshitij83/leetcode-solutions/tree/master/0078-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kshitij83/leetcode-solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Kshitij83/leetcode-solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kshitij83/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Kshitij83/leetcode-solutions/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
