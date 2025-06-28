@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Kshitij83/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kshitij83/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Kshitij83/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kshitij83/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
@@ -337,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
