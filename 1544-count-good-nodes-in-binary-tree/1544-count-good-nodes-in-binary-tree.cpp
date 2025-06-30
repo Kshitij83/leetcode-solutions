@@ -20,9 +20,8 @@ public:
         if(node->right) dfs(node->right,maxPar,count);
     }
     int goodNodes(TreeNode* root) {
-        int count = 1;
-        if(root->left) dfs(root->left,root->val,count);
-        if(root->right) dfs(root->right,root->val,count);
+        int count = 0;
+        dfs(root,root->val,count);
         return count;
     }
 };
