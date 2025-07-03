@@ -9,14 +9,6 @@ public:
                 if(grid[i][j]==2) q.push({i,j});
             }
         }
-        if(q.empty()) {
-            for(int i=0;i<m;i++) {
-                for(int j=0;j<n;j++) {
-                    if(grid[i][j]==1) return -1;
-                }
-            }
-            return 0;
-        }
         vector<int> dx = {0,-1,0,1};
         vector<int> dy = {-1,0,1,0};
         int min = 0;
@@ -42,6 +34,6 @@ public:
                 if(grid[i][j]==1) return -1;
             }
         }
-        return min-1;
+        return (min==0) ? min : min-1;
     }
 };
