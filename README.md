@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Kshitij83/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Kshitij83/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kshitij83/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Kshitij83/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kshitij83/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
 | ------- |
