@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Kshitij83/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Kshitij83/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kshitij83/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Kshitij83/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kshitij83/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kshitij83/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Kshitij83/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Kshitij83/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kshitij83/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kshitij83/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
