@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Kshitij83/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kshitij83/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Kshitij83/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Kshitij83/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
