@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Kshitij83/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kshitij83/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kshitij83/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Matrix
 |  |
 | ------- |
