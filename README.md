@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0322-coin-change) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kshitij83/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kshitij83/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Kshitij83/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kshitij83/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshitij83/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kshitij83/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Matrix
 |  |
 | ------- |
