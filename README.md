@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kshitij83/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/Kshitij83/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kshitij83/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kshitij83/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0322-coin-change) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Greedy
@@ -415,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
