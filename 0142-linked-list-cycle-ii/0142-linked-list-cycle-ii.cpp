@@ -9,25 +9,21 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        struct ListNode* slow = head;
-        struct ListNode* fast = head;
-        int checked = 0;
-        while(fast!=NULL && fast->next!=NULL){
-            slow = slow->next;
+        if(!head) return NULL;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast->next!=NULL && fast->next->next!=NULL) {
             fast = fast->next->next;
-            if(fast==slow){
-                checked = 1;
-                break;
+            slow = slow->next;
+            if(slow==fast) {
+                slow = head;
+                while(slow!=fast) {
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+                return slow;
             }
         }
-        if(checked == 0){
-            return NULL;
-        }
-        slow = head;
-        while(slow!=fast){
-            slow = slow->next;
-            fast = fast->next;
-        }
-        return slow;
+        return NULL;
     }
 };
