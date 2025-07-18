@@ -9,15 +9,13 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        struct ListNode* slow = head;
-        struct ListNode* fast = head;
-
-        while(fast!=NULL && fast->next!=NULL){
+        if(!head) return NULL;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast->next!=NULL && fast->next->next!=NULL) {
             slow = slow->next;
             fast = fast->next->next;
-            if(slow == fast){
-                return true;
-            }
+            if(slow==fast) return true;
         }
         return false;
     }
