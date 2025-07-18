@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/Kshitij83/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshitij83/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Kshitij83/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [1020-longest-turbulent-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kshitij83/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Greedy
