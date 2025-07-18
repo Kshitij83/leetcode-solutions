@@ -1,45 +1,30 @@
 class Solution {
 public:
-    void bfs(int x,int y,vector<vector<int>>& vis,vector<vector<char>>& grid) {
-        queue<pair<int,int>> q;
-        q.push({x,y});
+    void dfs(vector<vector<char>>& grid,vector<vector<int>>& vis, int x, int y, int m, int n) {
         vis[x][y] = 1;
-        int n = grid.size();
-        int m = grid[0].size();
-        while(!q.empty()) {
-            int n1 = q.front().first;
-            int m1 = q.front().second;
-            q.pop();
-            for(int i=-1;i<=1;i++) {
-                for(int j=-1;j<=1;j++) {
-                    if(abs(i+j)==1) {
-                        int nrow = n1 + i;
-                        int crow = m1 + j;
-                        if(nrow>=0 && crow>=0 && nrow<n && crow<m && !vis[nrow][crow] && grid[nrow][crow]=='1') {
-                            q.push({nrow,crow});
-                            vis[nrow][crow] = 1;
-                        } 
-                    }
-                }
-            }
+        //if(x==3 && y==4) cout<<"give me a cheer";
+        vector<int> dx = {0,-1,0,1};
+        vector<int> dy = {-1,0,1,0};
+        for(int i=0;i<4;i++) {
+            int nx = dx[i] + x;
+            int ny = dy[i] + y;
+            if(nx>=0 && ny>=0 && nx<m && ny<n && grid[nx][ny]=='1' && !vis[nx][ny]) dfs(grid,vis,nx,ny,m,n); 
         }
     }
 
     int numIslands(vector<vector<char>>& grid) {
-        //TC - O(N^2) , SC - O(N^2)
-        //idea : traverse all elements and if it is 1, then start doing bfs or dfs traversals(same like number of provinces)
-        int n = grid.size();
-        int m = grid[0].size();
-        vector<vector<int>> vis(n,vector<int>(m,0));
-        int islands = 0;
-        for(int i=0;i<n;i++) {
-            for(int j=0;j<m;j++) {
-                if(!vis[i][j] && grid[i][j]=='1') {
-                    bfs(i,j,vis,grid);
-                    islands++;
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<int>> vis(m,vector<int>(n,0));
+        int count = 0;
+        for(int i=0;i<m;i++) {
+            for(int j=0;j<n;j++) {
+                if(grid[i][j]=='1' && !vis[i][j]) {
+                    dfs(grid,vis,i,j,m,n);
+                    count++;
                 }
             }
         }
-        return islands;
+        return count;
     }
 };
