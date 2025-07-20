@@ -1,33 +1,31 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        map<int,int> moneyinhand;
+        int fives = 0, tens = 0, twenties = 0;
         for(int i=0;i<bills.size();i++){
             if(bills[i]==5){
-                moneyinhand[5]++;
+                fives++;
             }
             else if(bills[i]==10){
-                if(moneyinhand[5]>=1){
-                    moneyinhand[5]--;
-                    moneyinhand[10]++;
+                if(fives>=1){
+                    fives--;
+                    tens++;
                 }
                 else{
-                    cout<<"a";
                     return false;
                 }
             }
             else if(bills[i]==20){
-                if(moneyinhand[5]>=1 && moneyinhand[10]>=1){
-                    moneyinhand[5]--;
-                    moneyinhand[10]--;
-                    moneyinhand[20]++;
+                if(fives>=1 && tens>=1){
+                    fives--;
+                    tens--;
+                    twenties++;
                 }
-                else if(moneyinhand[5]>=3){
-                    moneyinhand[5]-=3;
-                    moneyinhand[20]++;
+                else if(fives>=3){
+                    fives-=3;
+                    twenties++;
                 }
                 else{
-                    cout<<"b"<<moneyinhand[5]<<" "<<moneyinhand[10]<<" "<<moneyinhand[20];
                     return false;
                 }
             }
