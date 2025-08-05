@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kshitij83/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2690-house-robber-iv](https://github.com/Kshitij83/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kshitij83/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [2690-house-robber-iv](https://github.com/Kshitij83/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [2690-house-robber-iv](https://github.com/Kshitij83/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Greedy
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kshitij83/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kshitij83/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2690-house-robber-iv](https://github.com/Kshitij83/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Trie
 |  |
 | ------- |
