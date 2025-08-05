@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kshitij83/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kshitij83/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Kshitij83/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kshitij83/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Kshitij83/leetcode-solutions/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
