@@ -18,7 +18,7 @@ public:
         // }
         string c;
         int i = m, j = n;
-        while(i>0 && j>0) {
+        while((i>=0 && j>0) || (i>0 && j>=0)) {
             int cur = dp[i][j];
             while(i>0 && j>0 && str1[i-1]==str2[j-1]) {
                 c = str1[i-1] + c;
@@ -34,8 +34,6 @@ public:
                 j--;
             }
         }
-        c.insert(0,str1,0,i);
-        c.insert(0,str2,0,j);
         // i=0;
         // j=0;
         // int k = 0;
