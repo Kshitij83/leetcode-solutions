@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findWays(string& s, string& t, int i, int j, vector<vector<int>>& dp) {
+    int findWays(string s, string t, int i, int j, vector<vector<int>>& dp) {
         if(j<0) return 1; 
         if(i<0) return 0;
         if(dp[i][j]!=-1) return dp[i][j];
