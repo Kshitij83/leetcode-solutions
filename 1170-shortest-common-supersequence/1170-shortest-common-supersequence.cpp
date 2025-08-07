@@ -10,6 +10,12 @@ public:
                 else dp[i][j] = max(dp[i-1][j],dp[i][j-1]);
             }
         }
+        // for(int i=0;i<=m;i++) {
+        //     for(int j=0;j<=n;j++) {
+        //         cout<<dp[i][j]<<" ";
+        //     }
+        //     cout<<endl;
+        // }
         string c;
         int i = m, j = n;
         while(i>0 && j>0) {
@@ -19,32 +25,40 @@ public:
                 i--;
                 j--;
             }
-            while(i>0 && dp[i-1][j]==cur) i--;
-            while(j>0 && dp[i][j-1]==cur) j--;
-        }
-        i=0;
-        j=0;
-        int k = 0;
-        while(i<m && j<n) {
-            char cur = c[k];
-            while(i<m && cur!=str1[i]) {
-                c.insert(k,1,str1[i]);
-                i++;
-                k++;
+            while(i>0 && dp[i-1][j]==cur) {
+                c = str1[i-1] + c; 
+                i--;
             }
-            while(j<n && cur!=str2[j]) {
-                c.insert(k,1,str2[j]);
-                j++;
-                k++;
-            }
-            while(i<m && j<n && k<c.size() && str1[i]==c[k] && str2[j]==c[k]) {
-                i++;
-                j++;
-                k++;
+            while(j>0 && dp[i][j-1]==cur) {
+                c = str2[j-1] + c;
+                j--;
             }
         }
-        if(i<m) c.append(str1,i,m);
-        else c.append(str2,j,n);
+        c.insert(0,str1,0,i);
+        c.insert(0,str2,0,j);
+        // i=0;
+        // j=0;
+        // int k = 0;
+        // while(i<m && j<n) {
+        //     char cur = c[k];
+        //     while(i<m && cur!=str1[i]) {
+        //         c.insert(k,1,str1[i]);
+        //         i++;
+        //         k++;
+        //     }
+        //     while(j<n && cur!=str2[j]) {
+        //         c.insert(k,1,str2[j]);
+        //         j++;
+        //         k++;
+        //     }
+        //     while(i<m && j<n && k<c.size() && str1[i]==c[k] && str2[j]==c[k]) {
+        //         i++;
+        //         j++;
+        //         k++;
+        //     }
+        // }
+        // if(i<m) c.append(str1,i,m);
+        // else c.append(str2,j,n);
         return c;
     }
 };
