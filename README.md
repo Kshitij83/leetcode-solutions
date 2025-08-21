@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Kshitij83/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kshitij83/leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Kshitij83/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kshitij83/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2690-house-robber-iv](https://github.com/Kshitij83/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Kshitij83/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
