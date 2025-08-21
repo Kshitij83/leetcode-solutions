@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kshitij83/leetcode-solutions/tree/master/0204-count-primes) |
+| [0923-super-egg-drop](https://github.com/Kshitij83/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Kshitij83/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Kshitij83/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kshitij83/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/Kshitij83/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0923-super-egg-drop](https://github.com/Kshitij83/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kshitij83/leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2690-house-robber-iv](https://github.com/Kshitij83/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Divide and Conquer
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kshitij83/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0923-super-egg-drop](https://github.com/Kshitij83/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kshitij83/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
