@@ -10,29 +10,44 @@ public:
     //     return dp[ind][prev_ind+1] = len;
     // }
     int lengthOfLIS(vector<int>& nums) {
-        //Approach 4: Tabulation but used for printing the subsequence too
+        //Approach 5 : Binary search (does not get actual answer but can get size)
+        //idea : if incoming num is more than last elem then push
+        //or else just replace the first greater elem than incoming with incoming
         int n = nums.size();
-        vector<int> dp(n,1),hash(n,-1);
-        int maxi = 1;
-        int ind = -1;
+        vector<int> arr;
+        arr.push_back(nums[0]);
         for(int i=1;i<n;i++) {
-            for(int j=0;j<i;j++) {
-                if(nums[j]<nums[i] && dp[j]+1 > dp[i]) {
-                    hash[i] = j;
-                    dp[i] = dp[j] + 1;
-                    if(maxi < dp[i]) {
-                        maxi = dp[i];
-                        ind = i;
-                    }
-                }
+            if(nums[i]>arr.back()) arr.push_back(nums[i]);
+            else {
+                auto ind = lower_bound(arr.begin(),arr.end(),nums[i]);
+                *ind = nums[i];
             }
         }
-        if(ind==-1) cout<<nums[0]; 
-        while(ind!=-1) {
-            cout<<nums[ind]<<" ";
-            ind = hash[ind];
-        }
-        return maxi;
+        return arr.size();
+
+        //Approach 4: Tabulation but used for printing the subsequence too
+        // int n = nums.size();
+        // vector<int> dp(n,1),hash(n,-1);
+        // int maxi = 1;
+        // int ind = -1;
+        // for(int i=1;i<n;i++) {
+        //     for(int j=0;j<i;j++) {
+        //         if(nums[j]<nums[i] && dp[j]+1 > dp[i]) {
+        //             hash[i] = j;
+        //             dp[i] = dp[j] + 1;
+        //             if(maxi < dp[i]) {
+        //                 maxi = dp[i];
+        //                 ind = i;
+        //             }
+        //         }
+        //     }
+        // }
+        // if(ind==-1) cout<<nums[n-1]; 
+        // while(ind!=-1) {
+        //     cout<<nums[ind]<<" ";
+        //     ind = hash[ind];
+        // }
+        // return maxi;
 
 
         //Approach 3 : Tabulation with SC - O(2*N)
