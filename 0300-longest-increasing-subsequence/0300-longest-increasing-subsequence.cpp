@@ -16,11 +16,17 @@ public:
         int n = nums.size();
         vector<int> arr;
         arr.push_back(nums[0]);
+        int len = 0;
         for(int i=1;i<n;i++) {
-            if(nums[i]>arr.back()) arr.push_back(nums[i]);
+            if(nums[i]>arr.back()) {
+                arr.push_back(nums[i]);
+                len++;
+            }
             else {
-                auto ind = lower_bound(arr.begin(),arr.end(),nums[i]);
-                *ind = nums[i];
+                // auto ind = lower_bound(arr.begin(),arr.end(),nums[i]);
+                // *ind = nums[i];
+                int ind = lower_bound(arr.begin(),arr.end(),nums[i]) - arr.begin();
+                arr[ind] = nums[i];
             }
         }
         return arr.size();
