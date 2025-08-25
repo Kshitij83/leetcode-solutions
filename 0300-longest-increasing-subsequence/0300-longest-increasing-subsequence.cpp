@@ -12,15 +12,25 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         //Approach 4: Tabulation but used for printing the subsequence too
         int n = nums.size();
-        vector<int> dp(n,1);
+        vector<int> dp(n,1),hash(n,-1);
         int maxi = 1;
+        int ind = -1;
         for(int i=1;i<n;i++) {
             for(int j=0;j<i;j++) {
-                if(nums[j]<nums[i]) {
-                    dp[i] = max(dp[i],1+dp[j]);
-                    maxi = max(dp[i],maxi); 
+                if(nums[j]<nums[i] && dp[j]+1 > dp[i]) {
+                    hash[i] = j;
+                    dp[i] = dp[j] + 1;
+                    if(maxi < dp[i]) {
+                        maxi = dp[i];
+                        ind = i;
+                    }
                 }
             }
+        }
+        if(ind==-1) cout<<nums[0]; 
+        while(ind!=-1) {
+            cout<<nums[ind]<<" ";
+            ind = hash[ind];
         }
         return maxi;
 
