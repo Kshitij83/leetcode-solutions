@@ -12,7 +12,7 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         //Approach 1 : Memoization 
         int n = nums.size();
-        vector<vector<int>> dp(n,vector<int>(n+1,-1));
+        vector<vector<int>> dp(n,vector<int>(n,-1));
         return findAns(0,-1,n,nums,dp);
     }
 };
