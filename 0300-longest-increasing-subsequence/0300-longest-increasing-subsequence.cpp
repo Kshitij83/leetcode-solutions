@@ -16,7 +16,7 @@ public:
         int n = nums.size();
         vector<int> arr;
         arr.push_back(nums[0]);
-        int len = 0;
+        int len = 1;
         for(int i=1;i<n;i++) {
             if(nums[i]>arr.back()) {
                 arr.push_back(nums[i]);
@@ -29,7 +29,7 @@ public:
                 arr[ind] = nums[i];
             }
         }
-        return arr.size();
+        return len;
 
         //Approach 4: Tabulation but used for printing the subsequence too
         // int n = nums.size();
