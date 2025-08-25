@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Kshitij83/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kshitij83/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Kshitij83/leetcode-solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Kshitij83/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kshitij83/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kshitij83/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Kshitij83/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Kshitij83/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/Kshitij83/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Kshitij83/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Kshitij83/leetcode-solutions/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Monotonic Stack
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kshitij83/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Kshitij83/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
