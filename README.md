@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Kshitij83/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kshitij83/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/Kshitij83/leetcode-solutions/tree/master/0883-car-fleet) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Kshitij83/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kshitij83/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kshitij83/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0923-super-egg-drop](https://github.com/Kshitij83/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Kshitij83/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -537,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kshitij83/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
