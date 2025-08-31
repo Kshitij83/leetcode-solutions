@@ -5,7 +5,7 @@ public:
         int n = nums.size();
         vector<int> dp(n,1);
         vector<int> hash(n,-1);
-        int maxi = 0;
+        int maxi = 1;
         int ind = -1;
         vector<int> ans;
         for(int i=1;i<n;i++) {
