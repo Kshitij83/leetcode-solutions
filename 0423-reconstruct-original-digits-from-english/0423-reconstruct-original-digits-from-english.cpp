@@ -22,7 +22,6 @@ public:
                     break;
                 }
             }
-            cout<<freq<<" ";
             if(freq!=1e9) {
                 for(char c : num) {
                     mpp[c] -= freq;
