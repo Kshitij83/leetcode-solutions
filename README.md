@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Kshitij83/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Kshitij83/leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2317-count-collisions-on-a-road](https://github.com/Kshitij83/leetcode-solutions/tree/master/2317-count-collisions-on-a-road) |
 ## Sliding Window
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Kshitij83/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Kshitij83/leetcode-solutions/tree/master/0883-car-fleet) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Kshitij83/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2317-count-collisions-on-a-road](https://github.com/Kshitij83/leetcode-solutions/tree/master/2317-count-collisions-on-a-road) |
 ## String Matching
 |  |
 | ------- |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kshitij83/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [2317-count-collisions-on-a-road](https://github.com/Kshitij83/leetcode-solutions/tree/master/2317-count-collisions-on-a-road) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Kshitij83/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Binary Indexed Tree
 |  |
